@@ -1,4 +1,5 @@
-// Working with an array - Create a bad phrase generator
+// Array
+// Create a bad phrase generator
 // - use `+` for string
 // - use `join` 
 let bodyParts = [`nose`,`lips`,`arms`,`legs`,`body`,];
